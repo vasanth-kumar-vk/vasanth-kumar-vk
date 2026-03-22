@@ -78,14 +78,13 @@ My home lab runs on a physical PC with:
 ## 🎯 Currently Working On
 
 - Publishing all lab projects to GitHub with full documentation
-- AZ-900 Azure Fundamentals certification (registered for Virtual Training Day)
 - Expanding GNS3 topology with additional VLANs and redundancy
-
+  
 ---
 
 ## 📫 Contact
 
-📧 vasanthkumar7781@gmail.com
+📧 vasanthkumarvk2855@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/vasanthkumar)
 📍 Bengaluru, Karnataka, India
 
