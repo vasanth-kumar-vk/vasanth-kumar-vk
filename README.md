@@ -85,7 +85,7 @@ My home lab runs on a physical PC with:
 ## 📫 Contact
 
 📧 vasanthkumarvk2855@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/vasanthkumar)
+🔗 [LinkedIn](https://linkedin.com/in/vasanth-kumar-vk)
 📍 Bengaluru, Karnataka, India
 
 ---
