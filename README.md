@@ -17,11 +17,11 @@ Every project below was built from scratch, tested end-to-end, and documented to
 
 | # | Project | Technologies | Documentation |
 |---|---|---|---|
-| 1 | [Enterprise Branch Network](https://github.com/vasanthkumar/enterprise-branch-network) | GNS3, OSPF, VLANs, NAT/PAT, ACLs, pfSense | ✅ Full PDF |
-| 2 | [Windows Server 2022 Lab](https://github.com/vasanthkumar/windows-server-2022-lab) | AD DS, DNS, DHCP, GPO, IIS, PowerShell | ✅ Full PDF |
-| 3 | [Linux Server Lab](https://github.com/vasanthkumar/linux-server-lab) | Ubuntu 24.04, Apache2, UFW, SSH | ✅ DOCX |
-| 4 | [pfSense Firewall Lab](https://github.com/vasanthkumar/pfsense-firewall-lab) | pfSense CE, WAN/LAN/OPT1, Hybrid NAT | ✅ DOCX |
-| 5 | [Dual Boot Lab Setup](https://github.com/vasanthkumar/dual-boot-lab-setup) | Windows 11, Ubuntu 24.04, GRUB, GPT/MBR | ✅ DOCX |
+| 1 | [Enterprise Branch Network](https://github.com/vasanth-kumar-vk/enterprise-branch-network) | GNS3, OSPF, VLANs, NAT/PAT, ACLs, pfSense | ✅ Full PDF |
+| 2 | [Windows Server 2022 Lab](https://github.com/vasanth-kumar-vk/windows-server-2022-lab) | AD DS, DNS, DHCP, GPO, IIS, PowerShell | ✅ Full PDF |
+| 3 | [Linux Server Lab](https://github.com/vasanth-kumar-vk/linux-server-lab) | Ubuntu 24.04, Apache2, UFW, SSH | ✅ DOCX |
+| 4 | [pfSense Firewall Lab](https://github.com/vasanth-kumar-vk/pfsense-firewall-lab) | pfSense CE, WAN/LAN/OPT1, Hybrid NAT | ✅ DOCX |
+| 5 | [Dual Boot Lab Setup](https://github.com/vasanth-kumar-vk/dual-boot-lab-setup) | Windows 11, Ubuntu 24.04, GRUB, GPT/MBR | ✅ DOCX |
 
 ---
 
